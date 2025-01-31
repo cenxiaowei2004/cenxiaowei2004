@@ -14,15 +14,11 @@ $~~~~$ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weigh
 
  <!--语言信息统计--> 
 
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=cenxiaowei2004)
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=cenxiaowei2004&theme="github-light")
  <!--提交信息折线图-->
 
 
- [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ashutosh00710&custom_title=This%20is%20a%20title&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
-
-
+ 
 
 
 
