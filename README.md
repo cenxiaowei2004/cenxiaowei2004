@@ -1,4 +1,4 @@
- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=5000&center=true&width=435&lines=Hello+world!;I+'m+cen!)](https://git.io/typing-svg)
+$~~~~$ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=5000&center=true&width=435&lines=Hello+world!;I+'m+cen!)](https://git.io/typing-svg)
  <!--滚动打字效果--> 
 
 <picture>
@@ -15,7 +15,10 @@
  <!--语言信息统计--> 
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=cenxiaowei2004)
- <!--提交信息折线图--> 
+ <!--提交信息折线图-->
+
+
+ [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ashutosh00710&custom_title=This%20is%20a%20title&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
