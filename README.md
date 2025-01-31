@@ -14,7 +14,7 @@ $~~~~$ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weigh
 
  <!--语言信息统计--> 
 
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=cenxiaowei2004&theme="github-light")
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=cenxiaowei2004&theme="github-light"&bg_color=fffff0)
  <!--提交信息折线图-->
 
 
