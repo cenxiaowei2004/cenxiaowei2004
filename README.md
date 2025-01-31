@@ -1,4 +1,4 @@
-$~~~~$ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=5000&center=true&width=435&lines=Hello+world!;I+'m+cen!)](https://git.io/typing-svg)
+             [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=5000&center=true&width=435&lines=Hello+world!;I+'m+cen!)](https://git.io/typing-svg)
  <!--滚动打字效果--> 
 
 <picture>
@@ -9,7 +9,7 @@ $~~~~$ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weigh
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cenxiaowei2004)  $~~~~$ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cenxiaowei2004)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cenxiaowei2004)     ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cenxiaowei2004)
  <!--提交信息统计--> 
 
  <!--语言信息统计--> 
