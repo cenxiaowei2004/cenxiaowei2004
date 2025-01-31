@@ -7,7 +7,10 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/cenxiaowei2004/cenxiaowei2004/output/github-contribution-grid-snake.svg">
 </picture>
 
-
+<div style="display:flex">
+ <div>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cenxiaowei2004)</div>
+<div>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cenxiaowei2004)</div>
+</div>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cenxiaowei2004)
  <!--提交信息统计--> 
 
