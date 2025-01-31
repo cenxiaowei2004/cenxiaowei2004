@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&width=435&lines=Hi!I'm+cen.This+is+my+Github+page.)](https://git.io/typing-svg)
  <!--滚动打字效果--> 
 
-## Welcome ![me](https://github.com/cenxiaowei2004/cenxiaowei2004/blob/images/play.gif)
+## Welcome <img src="https://github.com/cenxiaowei2004/cenxiaowei2004/blob/images/play.gif" width="30">
 
 ![cen's GitHub stats](https://github-readme-stats.vercel.app/api?username=cenxiaowei2004&hide_border=true) 󠁅 󠁅󠁅󠁅             <!--提交信息统计--> 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cenxiaowei2004&line_height=22&hide_border=true) <!--语言信息统计--> 
