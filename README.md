@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&center=true&width=435&lines=Hello%EF%BC%81I'm+cen.Welcome+to+my+Github+page)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&width=435&lines=Hi!I'm+cen.This+is+my+Github+page.)](https://git.io/typing-svg)
  <!--滚动打字效果--> 
 
 <picture>
