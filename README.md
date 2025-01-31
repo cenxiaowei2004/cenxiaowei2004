@@ -9,8 +9,8 @@
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cenxiaowei2004) 󠁅 󠁅󠁅󠁅
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cenxiaowei2004&line_height=22)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cenxiaowei2004&hide_border=true) 󠁅 󠁅󠁅󠁅
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cenxiaowei2004&line_height=22&hide_border=true)
  <!--提交信息统计--> 
 
  <!--语言信息统计--> 
