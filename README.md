@@ -6,7 +6,7 @@
 
 <h2 align="center">Welcome! <img src="https://github.com/cenxiaowei2004/cenxiaowei2004/blob/images/play.gif" width="55"></h2>
 
-<--
+<!--
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
@@ -22,13 +22,17 @@
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
 -->
 
+
+
 <p align="center">
   <img src="https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a"/>
- <img src="https://img.shields.io/badge/Code-C++-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a"/>
- <img src="https://img.shields.io/badge/Tools-MySQl-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a"/>
- <img src="https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a"/>
+  <img src="https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cplusplus&logoColor=white&color=2bbc8a"/>
+  <img src="https://img.shields.io/badge/Editor-CLion-informational?style=flat&logo=clion&logoColor=white&color=2bbc8a"/>
+  <img src="https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a"/>
+  <img src="https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a"/>
 </p>
 <p align="center">
+ 
  <!--
 <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
 <img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js"/>
