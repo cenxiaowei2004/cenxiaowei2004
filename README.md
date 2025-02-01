@@ -59,6 +59,7 @@
 ![cen's GitHub stats](https://github-readme-stats.vercel.app/api?username=cenxiaowei2004&hide_border=true) 󠁅 󠁅󠁅󠁅             <!--提交信息统计--> 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cenxiaowei2004&line_height=22&hide_border=true) <!--语言信息统计--> 
 
+---
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cenxiaowei2004/cenxiaowei2004/output/github-contribution-grid-snake-dark.svg">
